@@ -1,0 +1,2 @@
+# Signature Index
+# Hash: abc123 | Capsule: python-capsule.py | Tag: recruiter-proof
